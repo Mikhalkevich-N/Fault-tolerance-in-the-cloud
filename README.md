@@ -32,10 +32,10 @@
 
 ## Ответ:
 
-### Файл main.tf
+#### Файл main.tf
 [main.tf](https://github.com/Mikhalkevich-N/Fault-tolerance-in-the-cloud/blob/main/main.tf)
 
-### Файл metadata.yml
+#### Файл metadata.yml
 ![png](image.png)
 
 ![png](image-1.png)
