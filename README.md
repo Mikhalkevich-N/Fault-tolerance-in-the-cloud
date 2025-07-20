@@ -33,7 +33,7 @@
 ## Ответ:
 
 Файл main.tf
-[main.tf](../../Downloads/terraform-project/terraform-project/main.tf)
+[main.tf](https://github.com/Mikhalkevich-N/Fault-tolerance-in-the-cloud/blob/main/main.tf)
 
 ![png](image.png)
 
